@@ -1,0 +1,28 @@
+{
+    "name": "adlawson/timezone",
+    "description": "UTC default timezone",
+    "keywords": ["date", "datetime", "default", "time", "timezone", "utc"],
+    "version: "1.0.0",
+
+    "type": "library",
+    "license": "MIT",
+
+    "homepage": "http://github.com/adlawson/timezone",
+
+    "authors": [
+        {
+            "name": "Andrew Lawson",
+            "homepage": "http://adlawson.com"
+        }
+    ],
+
+    "autoload": {
+        "files": [
+            "./lib/timezone.php"
+        ]
+    },
+
+    "require": {
+        "php": ">=5.3"
+    }
+}
