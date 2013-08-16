@@ -2,7 +2,7 @@
     "name": "adlawson/timezone",
     "description": "UTC default timezone",
     "keywords": ["date", "datetime", "default", "time", "timezone", "utc"],
-    "version: "1.0.0",
+    "version": "1.0.0",
 
     "type": "library",
     "license": "MIT",
